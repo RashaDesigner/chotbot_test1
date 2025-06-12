@@ -1,0 +1,22 @@
+# Virtual environment
+gemini_env/ 
+venv/ 
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.env.local
+
+# API key files
+*_key.txt
+secrets.py
+config.py
